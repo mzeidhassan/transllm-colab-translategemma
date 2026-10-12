@@ -5,7 +5,7 @@ Connect Trados Studio to TranslateGemma running on Google Colab using TransLLM, 
 Run TranslateGemma through Ollama on a Google Colab GPU and connect it remotely to Trados Studio using TransLLM.
 
 
-[Open in Google Colab]
+[Open in Google Colab](https://colab.research.google.com/github/mzeidhassan/transllm-colab-translategemma/blob/main/google_colab_ollama_api_serving_transllm.ipynb)
 
 ## What this notebook does
 
